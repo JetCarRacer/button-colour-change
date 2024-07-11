@@ -2,7 +2,7 @@
 Using an Arduino Nano and coloured buttons to change the colour of a strip of LED lights.
 
 
-#RGB COLOUR CHART
+# RGB COLOUR CHART
 1. **White** - (255, 255, 255)
 2. **Black** - (0, 0, 0)
 3. **Red** - (255, 0, 0)
